@@ -1,0 +1,267 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "video_overlay_text_jtKJ78": {
+      "type": "video-overlay-text",
+      "blocks": {
+        "heading_8YYqJ9": {
+          "type": "heading",
+          "settings": {
+            "title": "Great things never came<br>\nfrom comfort zones.",
+            "FontSizeDesk": 70,
+            "FontSizeMob": 30,
+            "color": "#ffffff"
+          }
+        },
+        "button_HQYDbn": {
+          "type": "button",
+          "settings": {
+            "BtnBgColor": "#ffffff",
+            "BtnColor": "#000000",
+            "buttonname": "Shop Now",
+            "btnurl": "shopify://collections/all"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8YYqJ9",
+        "button_HQYDbn"
+      ],
+      "settings": {
+        "video": "shopify://files/videos/-f1d3-45a4-a2a8-c462f7e5812d.mp4",
+        "imageposter": "shopify://shop_images/Rectangle_3.png",
+        "overlayopacity": 0.3,
+        "desktop_content_position": "bottom-left",
+        "mediaheight": "medium"
+      }
+    },
+    "scrolling_text_y96L39": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_9kAUGd": {
+          "type": "text",
+          "settings": {
+            "title": "High Quality Ingredients"
+          }
+        },
+        "text_7iTKyw": {
+          "type": "text",
+          "settings": {
+            "title": "Independently Certified"
+          }
+        },
+        "text_dqmpdY": {
+          "type": "text",
+          "settings": {
+            "title": "Expert Driven"
+          }
+        },
+        "text_dj6g6W": {
+          "type": "text",
+          "settings": {
+            "title": "Shipped Internationally"
+          }
+        },
+        "text_Bf4t9z": {
+          "type": "text",
+          "settings": {
+            "title": "High Quality Ingredients"
+          }
+        },
+        "text_qYjHNF": {
+          "type": "text",
+          "settings": {
+            "title": "Independently Certified"
+          }
+        },
+        "text_hEz6e8": {
+          "type": "text",
+          "settings": {
+            "title": "Expert Driven"
+          }
+        },
+        "text_epPRAm": {
+          "type": "text",
+          "settings": {
+            "title": "Shipped Internationally"
+          }
+        },
+        "text_Mya8gW": {
+          "type": "text",
+          "settings": {
+            "title": "High Quality Ingredients"
+          }
+        },
+        "text_mVzCy7": {
+          "type": "text",
+          "settings": {
+            "title": "Independently Certified"
+          }
+        },
+        "text_cwznjd": {
+          "type": "text",
+          "settings": {
+            "title": "Expert Driven"
+          }
+        },
+        "text_FWqhgy": {
+          "type": "text",
+          "settings": {
+            "title": "High Quality Ingredients"
+          }
+        },
+        "text_fGFfUq": {
+          "type": "text",
+          "settings": {
+            "title": "Independently Certified"
+          }
+        },
+        "text_YMdQnr": {
+          "type": "text",
+          "settings": {
+            "title": "Expert Driven"
+          }
+        },
+        "text_tWFKQM": {
+          "type": "text",
+          "settings": {
+            "title": "High Quality Ingredients"
+          }
+        },
+        "text_736HA6": {
+          "type": "text",
+          "settings": {
+            "title": "Independently Certified"
+          }
+        },
+        "text_LkUw9F": {
+          "type": "text",
+          "settings": {
+            "title": "Expert Driven"
+          }
+        }
+      },
+      "block_order": [
+        "text_9kAUGd",
+        "text_7iTKyw",
+        "text_dqmpdY",
+        "text_dj6g6W",
+        "text_Bf4t9z",
+        "text_qYjHNF",
+        "text_hEz6e8",
+        "text_epPRAm",
+        "text_Mya8gW",
+        "text_mVzCy7",
+        "text_cwznjd",
+        "text_FWqhgy",
+        "text_fGFfUq",
+        "text_YMdQnr",
+        "text_tWFKQM",
+        "text_736HA6",
+        "text_LkUw9F"
+      ],
+      "settings": {
+        "BgColor": "#000000",
+        "Color": "#ffffff",
+        "scrolling_speed": 16,
+        "transition": "right-left",
+        "FontSizeDesk": 14,
+        "FontSizeMob": 16
+      }
+    },
+    "logo_with_review_bwL9Fm": {
+      "type": "logo-with-review",
+      "blocks": {
+        "slide_mW8VEV": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Rolling_Stone_logo_1.png"
+          }
+        },
+        "slide_6QfczW": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_45_1.png"
+          }
+        },
+        "slide_ct6cpP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/LA_Weekly_logo_1.png"
+          }
+        },
+        "slide_iwrFwB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Herb_Updated_Logo_Dark_Version_1.png"
+          }
+        },
+        "slide_jWDCj6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/NewYorkTimes_1.png"
+          }
+        },
+        "slide_ijFmAB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/BBC_News_2022__Alt_1.png"
+          }
+        },
+        "slide_Bj63JR": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Rolling_Stone_logo_1.png"
+          }
+        },
+        "slide_QLMeq8": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_45_1.png"
+          }
+        }
+      },
+      "block_order": [
+        "slide_mW8VEV",
+        "slide_6QfczW",
+        "slide_ct6cpP",
+        "slide_iwrFwB",
+        "slide_jWDCj6",
+        "slide_ijFmAB",
+        "slide_Bj63JR",
+        "slide_QLMeq8"
+      ],
+      "settings": {
+        "PaddingTopDesk": 24,
+        "PaddingBottomDesk": 24,
+        "PaddingTopMob": 24,
+        "PaddingBottomMob": 24,
+        "Bgcolor": "#f6f6f5",
+        "btnname": "#1 Doctor Recommended",
+        "btnurl": "",
+        "btnbgcolor": "#e0dcdc",
+        "btnfontcolor": "#000000",
+        "BtnFontDesk": 16,
+        "BtnFontMob": 14,
+        "image": "shopify://shop_images/Vector_12.svg",
+        "count": 5,
+        "text": "12,000+ 5-star Reviews",
+        "textfontdesk": 16,
+        "textfontmob": 14
+      }
+    }
+  },
+  "order": [
+    "video_overlay_text_jtKJ78",
+    "scrolling_text_y96L39",
+    "logo_with_review_bwL9Fm"
+  ]
+}
