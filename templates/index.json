@@ -257,11 +257,30 @@
         "textfontdesk": 16,
         "textfontmob": 14
       }
+    },
+    "image_with_link_RdMDen": {
+      "type": "image-with-link",
+      "settings": {
+        "PaddingTopDesk": 80,
+        "PaddingBottomDesk": 16,
+        "PaddingTopMob": 50,
+        "PaddingBottomMob": 16,
+        "subtitle": "COMFORTABLY UNCOMFORTABLE",
+        "textfontdesk": 16,
+        "textfontmob": 16,
+        "heading": "Start with your Goals",
+        "headingFontdesk": 40,
+        "headingFontMob": 16,
+        "description": "We cannot become what we want to be by<br> remaining what we are.",
+        "DescFontdesk": 16,
+        "DescFontmob": 16
+      }
     }
   },
   "order": [
     "video_overlay_text_jtKJ78",
     "scrolling_text_y96L39",
-    "logo_with_review_bwL9Fm"
+    "logo_with_review_bwL9Fm",
+    "image_with_link_RdMDen"
   ]
 }
