@@ -1,0 +1,22 @@
+.image-link-heading {
+    margin: 0;
+    line-height: 1.2;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.image-link-subheading {
+    margin: 0;
+    color: #000;
+    margin-bottom: 8px;
+}
+
+.image-link-desc p {
+    margin: 0;
+    line-height: 1.4;
+    color: #1b1f23b2;
+}
+
+.image-link-head-parent {
+    text-align: center;
+}
